@@ -1,0 +1,19 @@
+# Datasets (download from Kaggle: https://www.kaggle.com/c/GiveMeSomeCredit/data)
+*.csv
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
